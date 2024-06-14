@@ -47,11 +47,11 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Functional Programming
 
-[ ] Read [Section 1.1: The Elements of Programming](http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1)
+[x] Read [Section 1.1: The Elements of Programming](http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1)
 
-[ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
+[x] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
 
-[ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
+[x] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
 # Higher-order procedures
 
